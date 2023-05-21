@@ -32,3 +32,4 @@ The Application is focused on providing digital security to users online, provid
   * I implemented various core feature of application like **Cyber Insurance**, **Safety Score** and many more.
   * Revamping project to SwiftUI from UIKit using MVVM architecture, which eases the unit testing.
   * Implemented Unit test cases.   
+  * Implemented Payment module in application.
