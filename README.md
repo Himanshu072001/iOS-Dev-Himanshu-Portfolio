@@ -9,7 +9,7 @@ In addition to my technical skills, I am a good communicator and collaborator, a
 
 # Here's a bit of what I've been working on 🧑‍💻
 
-## BodyGuard by Safehouse
+## 💂BodyGuard by Safehouse
 The Application is focused on providing digital security to users online, provide better VPN environment, there are various feature of application are listed below that I worked on:
 
 ***Features include in application***:
@@ -27,9 +27,14 @@ The Application is focused on providing digital security to users online, provid
   * RevenueCat SDK for payment module.
   * Adjust SDK is used for deeplinks integration.  
 
-***My Role***
+***My Role***:
   * I am working as an developer in this project. 
   * I implemented various core feature of application like **Cyber Insurance**, **Safety Score** and many more.
   * Revamping project to SwiftUI from UIKit using MVVM architecture, which eases the unit testing.
   * Implemented Unit test cases.   
   * Implemented Payment module in application.
+
+***Application Image***:
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/featureImage.png)
+
