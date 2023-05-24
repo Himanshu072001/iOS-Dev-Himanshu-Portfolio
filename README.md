@@ -9,7 +9,7 @@ In addition to my technical skills, I am a good communicator and collaborator, a
 
 # Here's a bit of what I've been working on 🧑‍💻
 
-## 💂BodyGuard by Safehouse
+## 1: BodyGuard by Safehouse 💂
 The Application is focused on providing digital security to users online, provide better VPN environment, there are various feature of application are listed below that I worked on:
 
 ***Features include in application***:
@@ -40,7 +40,8 @@ The Application is focused on providing digital security to users online, provid
 To know more click on [AppStore Link](https://apps.apple.com/us/app/bodyguard-by-safehouse/id1206852049 "App link")
 
 
-## 🌉CityDating-Swipe, Match & Meet Local Singles ❤️
+
+## 2: CityDating-Swipe, Match & Meet Local Singles ❤️
 Made just for Northwest &California singles… Try the new local dating app that's connecting thousands of singles around the Northwest & California.  Only real singles around Washington, Oregon, Idaho, Montana & Wyoming can sign up thanks to our AI, so no more matching with scammers and non-locals.  Swipe, match, chat & meet with Northwest singles for free!
 
 Singles in the Northwest have made more than 22 million swipes, 1 million chats, and 220K matches from Seattle to Portland and Spokane to Boise.  Thanks for making us the best free dating app for Northwest singles to swipe, match, chat, and meet!
@@ -55,9 +56,6 @@ The Northwest’s geography and traffic can make dating inconvenient. Now you ca
 
 DATE ON YOUR SCHEDULE
 Ever matched only to find out they're never free?  Now you can set your schedule and meet people with compatible availability.
-
-The app is always free for everyone including straight, LGBTQ, gay, lesbian, bisexual, non-binary, trans, and poly locals.  Members wanting to see who likes them or set advanced search criteria can upgrade to a Pro account. Pro users also get a free consultation with a professional dating coach.
-
 
 ***Features include in application***:
  * Northwest Dating offers optional Pro account subscriptions for $24.99 per month
@@ -83,7 +81,8 @@ The app is always free for everyone including straight, LGBTQ, gay, lesbian, bis
 
 ***Application Image***:
 
-![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/featureImage.png)
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/California-Dating-App.png)
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/NorthWest-Dating-App.png)
 To know more click on AppStore Links: [California Dating Application](https://apps.apple.com/us/app/california-dating-ca-singles/id1482721339 "California link") &
 [Northwest Dating Application](https://apps.apple.com/us/app/northwest-dating-singles-app/id1470577054 "northwest link") 
 
