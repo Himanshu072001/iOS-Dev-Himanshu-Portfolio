@@ -71,9 +71,13 @@ Ever matched only to find out they're never free?  Now you can set your schedule
   * Mixpanel, Firebase Analytics, Firebase Audience for event tracking.
   * In-App Purchase SDK for payment module.
   * Google-Maps SDK for rendering approximately 20K regions on map.
+  * Chat implementation using Socket.io.
+
 
 ***My Role***:
   * I am working as an developer in this project. 
+  * Implementation of chat using Socket.io.
+  * Implemented notification using One-Signal SDK.
   * The application is White-lable application that used same code base for different application targets, aintained codebase in such a way that create new application for same codebase reduced develops time by 50%.
   * I implemented one of the core feature of application i.e **Google Maps** which is used to show arround 20K regions on map using google earth coordinate files.
   * Implemented Unit test cases.   
