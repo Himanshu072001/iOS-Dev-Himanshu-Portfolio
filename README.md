@@ -122,3 +122,28 @@ With Eshq, it’s not just about meeting your significant other. We aim to help 
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/ESHQ-1.png)
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/ESHQ-2.png)
 To know more click on AppStore Links: [ESHQ Dating Application](https://apps.apple.com/us/app/eshq-app/id1456469528 "ESHQ link")
+
+
+
+## 4: QuikLee: Karate for your mind🥋
+QuikLee is a mobile game that challenges your general knowledge and cognitive skills. The game may ask you to solve a problem, complete a task, or answer an interesting trivia question. You earn points when you answer a question or complete the task before time runs out.
+
+Challenge your family and friends. Play against anybody through out the world. Build rivalries against your opponents. Earn belts as you get better and win challenges.
+
+
+***Tech Used***:
+  * This Application used UIKit for UI designing.
+  * The architecture I used for project is VIPER.
+  * Core-Data used for local storage.
+  * Used 3rd part libraries for Networking calls, Images Cache, Firebase SDK etc.
+ 
+***My Role***:
+  * I am working as an developer in this project. 
+  * Worked on races module, create different UI for races and added API's for same screens.
+  * Implemented VIPER architecture in project.
+  * Implemented Core-Data for local storage.
+
+***Application Image***:
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Quiklee.png)
+To know more click on AppStore Links: [Quiklee Application](https://apps.apple.com/us/app/quiklee/id1191809391  "Quiklee link") & [Web-link](https://quokkalabs.com/portfolio-quicklee)
