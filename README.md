@@ -91,3 +91,34 @@ To know more click on AppStore Links: [California Dating Application](https://ap
 [Northwest Dating Application](https://apps.apple.com/us/app/northwest-dating-singles-app/id1470577054 "northwest link") 
 
 
+
+## 3: Eshq - Modern Muslim Dating 👩‍❤️‍👨
+Eshq is a new dating and social discovery platform unlike any other. Eshq working to change archaic norms by defining an inclusive future focused on gender equality. Eshq's modern approach to Muslim dating and relationship building empowers women by letting them make the first move within 48 hours of a match. Eshq understands everyone is different and we pride ourselves on hosting a diverse community. Our friendly users include men and women from all backgrounds and walks of life. Everyone has a someone, so join today and find your partner.
+With Eshq, it’s not just about meeting your significant other. We aim to help you discover what love truly means by building lifelong relationships. Muslims face high societal expectations, but Eshq is a place where you can be your true self.
+
+***Features include in application***:
+* **Verification**: We’re a catfish free app! We use selfie verification to ensure you only connect with real people. All profiles are reviewed and approved by the Eshq team.
+* **Filters & Preferences**: Customize your search for love with detailed filters designed to help you find your best partner.
+* **Facebook Sign Up Option**: Automatically complete the sign-up process with your Facebook profile in seconds.
+* **Instagram & Spotify**: Share glamorous photos and your love of music with members of theEshq community.
+* **Real-Time Messaging**: No more guessing. See when your matches receive and read your messages.
+* **Video Upload**: Upload videos from Facebook and Instagram.
+
+***Tech Used***:
+  * This Application used UIKit for UI designing.
+  * The architecture I used for project is VIPER.
+  * In-App Purchase SDK for payment module.
+  * XABBER server is used for Chat implementation.
+
+***My Role***:
+  * I am working as an developer in this project. 
+  * Implemented Onboarding module for application. 
+  * Implemented Different login Authentication i.e (Facebook, Apple and Phone Number) in appliation. 
+  * Did fixes for chat issues.
+  * Implemented VIPER architecture in project.
+
+***Application Image***:
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/ESHQ-1.png)
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/ESHQ-2.png)
+To know more click on AppStore Links: [ESHQ Dating Application](https://apps.apple.com/us/app/eshq-app/id1456469528 "ESHQ link")
