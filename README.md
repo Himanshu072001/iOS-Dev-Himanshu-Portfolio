@@ -174,4 +174,46 @@ Nrivesh brings together the Indian diaspora (NRIs and Indian realtors) on its ro
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Nrivesh-1.png)
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/nrivesh-2.png)
 
-The application is in development phase, to know know about application [click here](https://quokkalabs.com/nrivesh  "nrivesh link") & [App Case Study](https://quokkalabs.com/nrivesh) visit [nrivesh.com](https://www.nrivesh.com)
+The application is in development phase, to know about application [click here](https://quokkalabs.com/nrivesh  "nrivesh link") & [App Case Study](https://quokkalabs.com/nrivesh) visit [nrivesh.com](https://www.nrivesh.com)
+
+
+
+## 5: Terra-Housing Market🏠
+Housing Market Mobile is easy to use GPS-enabled mobile app that can help you find a house to buy/rent. You can search for luxury homes and real estate anytime, anywhere using the Housing Market Mobile app.
+
+Your home search can be viewed on an interactive map and organized by price, neighborhood, or even closest to the exact point you are standing. The Housing Market Mobile App is a powerful property search real estate tool, brought to you by the Housing Market brand.
+
+***Features:***
+* View International real estate Listings.
+* View luxury homes and real estate for sale/rent.
+* Search for homes for sale by neighborhood, city, zip code, and more.
+* Browse home pictures and details.
+* Get connected to your local Housing Market Agent.
+* GPS features allow you to view and navigate to homes near you.
+
+***Tech Used***:
+  * UIKit for UI designing.
+  * The architecture I used for project is MVVM.
+  * Used 3rd part libraries for Networking calls, Images Cache, Firebase SDK,etc.
+  * Firebase Realtime DB, One-Signal for notifications. 
+
+***My Role***:
+  * I started this projects from scratch.
+  * Implemented MVVM architecture and did base setup for project.
+  * Completed application in given time, I am the only developer in this application. 
+  * The application has more then 50+ different apps live on appstore for different countries and States.
+  * Used same codebase for all 50+ application.
+  * Implemented various reusable components to make code highly maintainable.
+  * Implemented Google Ads SDK.
+
+***Application Images***:
+
+**AppStore application for different region:**
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Terra-1.png)
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Terra-2.png)
+
+**Application Design**
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Terra-3.png)
+
+To know about application [click here](https://housingmarketgroup.com/hmg-network/#  "terra link") & [App Case Study](https://quokkalabs.com/terra)
