@@ -147,3 +147,31 @@ Challenge your family and friends. Play against anybody through out the world. B
 
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Quiklee.png)
 To know more click on AppStore Links: [Quiklee Application](https://apps.apple.com/us/app/quiklee/id1191809391  "Quiklee link") & [Web-link](https://quokkalabs.com/portfolio-quicklee)
+
+
+
+## 5: NRIVESH🏗
+Nrivesh brings together the Indian diaspora (NRIs and Indian realtors) on its robust platform and devises an easy way to evaluate, buy, sell or rent properties of different architecture and sizes.
+* **Create Your Portfolio:** Add up to 4 properties to the Your Portfolio tool.
+* **Valuation:** Get an instant valuation on all residential properties (commercial/ industrial and agricultural valued separately).
+* **Connect to a Realtor:** Connect with a RERA, Crisil accredited realtor in the area via our in-app messenger tool to discuss selling, buying, renting or any other query you have
+* **Reinvestment & Services:** Use a host of other services available including a reinvestment guide for capital gains, legal services and property market tutorials, providing you the most up to date information to aid you in your decision making.
+
+***Tech Used***:
+  * UIKit for UI designing.
+  * The architecture I used for project is VIPER.
+  * Used 3rd part libraries for Networking calls, Images Cache, Firebase SDK, Socket.io etc.
+  * Firebase Realtime DB, One-Signal for notifications. 
+ 
+***My Role***:
+  * I started this projects from scratch.
+  * Implemented VIPER architecture and did base setup for project.
+  * Worked on 4 module individually. 
+  * Implemented various reusable components to make code highly maintainable.
+
+***Application Image***:
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Nrivesh-1.png)
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/nrivesh-2.png)
+
+The application is in development phase, to know know about application [click here](https://quokkalabs.com/nrivesh  "nrivesh link") & [App Case Study](https://quokkalabs.com/nrivesh) visit [nrivesh.com](https://www.nrivesh.com)
