@@ -217,3 +217,34 @@ Your home search can be viewed on an interactive map and organized by price, nei
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Terra-3.png)
 
 To know about application [click here](https://housingmarketgroup.com/hmg-network/#  "terra link") & [App Case Study](https://quokkalabs.com/terra)
+
+
+
+## 6: DHAD 🎶
+A Digital Product for west Asia/Middle-east audiences that strives to provide the best reading experience via audiobooks.
+
+***Features:***
+* Users can swipe through all the books listed and tap on the desired one.
+* Every book belongs to a different genre which may make it difficult for a user to search for their book of choice.
+* Before listening to any book, the user can go through all relevant information regarding the book.
+* Users get recommended books that come as a list below the one they are listening to.
+* In-App Subscriptions for additional benefits inside application.  
+
+***Tech Used***:
+  * UIKit for UI designing.
+  * The architecture I used for project is VIPER.
+  * SK-Payments used for In-App purchase
+  * Pod libraries for Networking calls, Images Cache, Firebase SDK,etc.
+  * MixPanel is used to track user activity. 
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Completed various modules of application single handed. 
+  * Implemented MixPanel to track used activity. 
+  * Implemented test cases.
+  * Used various 3rd parties library. 
+
+**Application Design**
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Dhad.png)
+
+To know about application [click here](https://quokkalabs.com/portfolio-dhad  "dhad link") & [App Case Study](https://quokkalabs.com/portfolio-dhad)
