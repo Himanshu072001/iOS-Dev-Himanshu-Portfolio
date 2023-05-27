@@ -336,10 +336,11 @@ The Swift Digital Event app is your must-have companion at seminars, conferences
   * Implemented test cases.
   
 **Application Design**
+
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/swift-1.png)
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/swift-2.png)
 
-To know about application [web link](https://swiftdigital.com.au  "swift link") & [App Case Study](https://quokkalabs.com/swift-digital) & AppStore link [app-link](https://apps.apple.com/au/app/swift-events/id927732235)
+To know about application [web link](https://swiftdigital.com.au  "swift link"),  [App Case Study](https://quokkalabs.com/swift-digital) & AppStore link [app-link](https://apps.apple.com/au/app/swift-events/id927732235)
 
 ## 10: ChargerBox 🔌
 Chargerbox app is intended for customers who use the chargerbox IOT device. The app allows the user to update their box wifi credentials with the help of bluetooth connection. The intended wifi credentials can be selected and are shred to the boxes to enable wifi connectivity  
@@ -380,5 +381,30 @@ This application is based on organizational communication and management concept
 
 
 
+## 12: IICanada 📰
+Get the latest regional, national and global news. See your information arranged by region. Add events directly to your calendar. Personalize the App so you can be notified based on what interests you. Share news stories by Email, SMS, Facebook, Twitter, and WhatsApp.
 
+***Features:***
+* Upcoming Events & What’s New.
+* Volunteering Opportunities & Employment Opportunities
+* Funeral and Samar Information.
+
+***Tech Used***:
+  * UIKit for UI designing language used is and Swift.
+  * The architecture I used for project is MVC.
+  * REST Api's for netwoking call.
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Worked on screens designs. 
+  * Solved multiple issues related to news module.
+  * Refactored project Api's due to backend migration. 
+
+**Application Design**
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/iicanada.png)
+
+To know about application [web link](https://iicanada.org  "iicanada link") & AppStore link [app-link](https://apps.apple.com/us/app/iicanada/id1118674876)
+  
+  
   
