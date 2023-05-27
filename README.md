@@ -303,7 +303,45 @@ This application is a modern social networking application, in which user's can 
 
 
 
-## 9: ChargerBox 🔌
+## 9: Swift Digital 🎤
+The Swift Digital Event app is your must-have companion at seminars, conferences, or any other event. It goes hand-in-hand with our event management platform allowing you to greet and seat event attendees professionally and efficiently. Gone are the days of shuffling through pages to mark attendance. Use our mobile event app to raise the professional bar at your next event.
+
+***Features:***
+* View event details and listings with one click
+* Check-in guests
+* Secure self-check-in feature allows guests to easily check themselves in
+* Use a PIN to activate self-check-in mode
+* Add attendees on the fly with the ad hoc registrant feature
+* Keep up to date with who has registered and who has paid
+* View info using your mobile or tablet -- no paper tickets required.
+* Easy use of QR code scanning on both mobile and paper
+* Capture and print name tags for better organisation
+* View upcoming events for ease of preparation
+* Use the app to organise your events into folders
+* Get important information on registrants by viewing their profile
+* Record attendance for future campaigns
+* Track attendees in order to assign CPD points
+* Available on mobile and tablet devices
+
+***Tech Used***:
+  * UIKit for UI designing and core language used is Swift.
+  * The architecture I used for project is MVVM.
+  * QR code scanning.
+  * 3rd party SDK's are used for netwoking call, Image downloading, QR-Code scanning. 
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Worked on events module.
+  * Implemented both UI as well as REST Api's for events module.
+  * Implemented test cases.
+  
+**Application Design**
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/swift-1.png)
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/swift-2.png)
+
+To know about application [web link](https://swiftdigital.com.au  "swift link") & [App Case Study](https://quokkalabs.com/swift-digital) & AppStore link [app-link](https://apps.apple.com/au/app/swift-events/id927732235)
+
+## 10: ChargerBox 🔌
 Chargerbox app is intended for customers who use the chargerbox IOT device. The app allows the user to update their box wifi credentials with the help of bluetooth connection. The intended wifi credentials can be selected and are shred to the boxes to enable wifi connectivity  
 
 ***Tech Used***:
@@ -317,11 +355,11 @@ Chargerbox app is intended for customers who use the chargerbox IOT device. The 
   * Used U-Blox SDK for wifi connection commands execution.
   * Implemented commands to shared wifi creds with IOT device.
 
-To know about application [click here](https://chargerbox.de/  "chargerbox link")
+To know about application [web link](https://chargerbox.de/  "chargerbox link")
 
 
 
-## 10: One-To-One Core 💬
+## 11: One-To-One Core 💬
 This application is based on organizational communication and management concepts.
 
 ***Features:***
