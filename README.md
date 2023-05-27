@@ -248,3 +248,32 @@ A Digital Product for west Asia/Middle-east audiences that strives to provide th
 ![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/Dhad.png)
 
 To know about application [click here](https://quokkalabs.com/portfolio-dhad  "dhad link") & [App Case Study](https://quokkalabs.com/portfolio-dhad)
+
+
+
+## 7: Fountain OS 🩺
+This application is a modern health & advanced medical tests enabling social application built for only the USA region.
+
+***Features:***
+* It is like an Uber for Healthcare and Online Diagnostic Tests.
+* Enables patients to book, track and get reports of their diagnostic tests.
+* It also provides reminders and reports about the cardiac health of the patients.
+* User registration through application using Invite Code of particular health domain.
+
+***Tech Used***:
+  * SwiftUI for UI designing.
+  * The architecture I used for project is MVVM.
+  * Firebase is used for all backend as well as networking processes.
+  * Firestore use used for storage.
+  * OktaAuthSDK is used for user authentication.
+  * SwiftUIPager used for making some view
+  * The application is White label application(1 Codebase for different applications ) 
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Completed various modules of application single handed. 
+  * Implemented **CI/CI** in project using **fastlane**.
+  * Implemented test cases.
+  * Did changes in codebase in order to make white label applications generation process easy. 
+
+To know about application [click here](https://www.fountainlife.com  "fountain link") 
