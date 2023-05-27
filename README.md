@@ -277,3 +277,70 @@ This application is a modern health & advanced medical tests enabling social app
   * Did changes in codebase in order to make white label applications generation process easy. 
 
 To know about application [click here](https://www.fountainlife.com  "fountain link") 
+
+
+
+## 8: Chatafam 💌
+This application is a modern social networking application, in which user's can uploaded there posts and connect with people around world.
+
+***Tech Used***:
+  * UIKit for UI designing.
+  * The architecture I used for project is MVVM.
+  * AWS is used for all backend as well as networking processes.
+  * Mongo-BD use used for storage.
+  * AWS Auth is used for user authentication.
+  * Graph-QL is used for making all network calls from application.
+  
+***My Role***:
+  * I started this projects from scratch.
+  * Implemented MVVM architecture and did base setup for project.
+  * I am the only developer in this application to implement both backend related work and application work. 
+  * Used AWS Auth for user authentication. 
+  * Used **GraphQL** for netwoking call's.
+  * Did **AWS setup, Mongo-DB** tables setup for storage. 
+  * Created backend table schema for storage.
+  * Implemented all Api's for request and response using GraphQL. 
+
+
+
+## 9: ChargerBox 🔌
+Chargerbox app is intended for customers who use the chargerbox IOT device. The app allows the user to update their box wifi credentials with the help of bluetooth connection. The intended wifi credentials can be selected and are shred to the boxes to enable wifi connectivity  
+
+***Tech Used***:
+  * UIKit for UI designing.
+  * The architecture I used for project is MVVM.
+  * U-Blox SDK for wifi releated implementation.
+
+***My Role***:
+  * I started this projects from scratch.
+  * Implemented MVVM architecture and did base setup for project.
+  * Used U-Blox SDK for wifi connection commands execution.
+  * Implemented commands to shared wifi creds with IOT device.
+
+To know about application [click here](https://chargerbox.de/  "chargerbox link")
+
+
+
+## 10: One-To-One Core 💬
+This application is based on organizational communication and management concepts.
+
+***Features:***
+* Create channels for team communication. 
+* Upload audio, video, documents in communication channels. 
+* Audio video calls integration.
+
+***Tech Used***:
+  * UIKit for UI designing language used are Objective-C and Swift.
+  * The architecture I used for project is MVVM.
+  * Twilio used for video/audio calls.
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Worked on screens designs.
+  * Implemented app extension for external communication.  
+  * Solved multiple issues related to chats module.
+
+
+
+
+  
