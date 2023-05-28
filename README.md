@@ -460,3 +460,34 @@ This Application is based on online learning and interview preparation concepts.
   * I worked as a developer in this project 
   * Worked on screens designs and REST Api's integration. 
   * Implemented reels view for question and answers. 
+
+
+
+# Skills 🔑
+
+* **Programming Language:** Swift, Objective-C, Dart.
+* **iOS Frameworks:** UIKit, SwiftUI, Core Data, Core Animation, Core Foundation. 
+* **User Interface (UI) Design:** Interface Builder, Auto Layout, UIKit and SwiftUI.
+* **Networking and Web Services:** URLSession and Alamofire.
+* **Persistence:** Core Data, SQLite, Realm, & UserDefaults.
+* **Debugging and Testing Tools:** Unit testing, some debugging tools of Xcode.
+* **Version Control:** GitHub, GitLab, Bitbucket.
+* **CI/CD Integration:** Fastlane with Github and GitLab & Jenkins with Bitbucket.
+* **Architecture's Used:** MVVM, MVC, MVP, VIPER, BLOC(Flutter).
+* **Team Communication Tools:** Slack, Microsoft Teams.
+* **Task Management Tools:** Trello, JIRA, Notion, Monday, & Confluence.
+* **Payment Gateways:** In-App Purchase, Stripe, RevenueCat.
+* **Tools/SDK's Integration:** 
+   * Firebase dynamic links.
+   * Remote Config Integration. 
+   * Firebase Real-Time DataBase.
+   * Intercom for user engagement.
+   * MixPanel. 
+   * Adjust for deeplinks. 
+   * Rudderstack to track user engagement. 
+   * Firebase analytics.
+   * FireStore for storage. 
+   * Firebase Authentication. 
+   * Firebase Crashlytics.
+   * Socket.io
+
