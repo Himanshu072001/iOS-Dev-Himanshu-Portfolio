@@ -491,3 +491,12 @@ This Application is based on online learning and interview preparation concepts.
    * Firebase Crashlytics.
    * Socket.io
 
+
+
+# How To Reach Me:🤳🏻
+
+* Connect with me on [GitHub](https://github.com/Himanshu072001  "github link")
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-kesharwani01/ "linkedIn link")
+* Connect with me on **Email:** himanshu.kesharwani.02@gmail.com
+
+For any queries related to iOS development connection with me, I will try to help you out & will be happy to share my knowledge 😉
