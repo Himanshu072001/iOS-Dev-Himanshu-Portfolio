@@ -407,4 +407,56 @@ Get the latest regional, national and global news. See your information arranged
 To know about application [web link](https://iicanada.org  "iicanada link") & AppStore link [app-link](https://apps.apple.com/us/app/iicanada/id1118674876)
   
   
-  
+# Flutter Projects: 🂱
+
+## 1: Secfense Authenticator✍️
+Secfense Authenticator provides an additional layer of security to the process of user authentication. Once authenticating, you get a push notification, authenticate locally (via biometrics) and you're logged in. It's strong authentication made simple and secure.
+Secfense Authenticator is one of the multi factor authentication options that can be used within the Secfense platform.
+
+***Features:***
+ * Biometric authentication. 
+ * Push notifications.
+ * User loggin Information under profile section.
+
+***Tech Used***:
+  * Dart is used for project development.
+  * State management tool used in this project is BLOC. 
+  * Retrofit is used for network calls.
+  * QR-Code Scanning. 
+  * Deeplink integration. 
+  * Firebase push notifications. 
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Worked on screens designs and REST Api's integration. 
+  * Implemented firebase deeplinks.
+  * Implemented QR-code sacnning.
+
+**Application Design**
+
+![picture alt](https://github.com/Himanshu072001/iOS-Devloper-Portfolio/blob/main/Images/Safehouse/secfense.png)
+
+To know about application [web link](https://secfense.com  "secfense link") & AppStore link [app-link](https://apps.apple.com/us/app/secfense-authenticator/id1619375634)
+
+## 2: Openeo - Online Learning 👨🏻‍💻
+This Application is based on online learning and interview preparation concepts. The application has two user roles Interviewers and candidated(normal users) they can enrolled with multiple courses and starting there interview preparation, where as interviewers can add multiple projects in application.
+
+***Features:***
+* Interviewers can add multiple courses. 
+* Payment integration using Stripe.
+* Reels section for Question and answers.
+* Video Calls schedules. 
+* Candidates can enroll to courses and start there learning and interview preprstion.
+
+***Tech Used***:
+  * Dart is used for project development.
+  * State management tool used in this project is BLOC. 
+  * Retrofit is used for network calls.
+  * Stripe is used for the payment process
+  * Zoom is integrated for video interview preparation process.
+  * One-Signal integration is implemented for user notification.
+
+***My Role***:
+  * I worked as a developer in this project 
+  * Worked on screens designs and REST Api's integration. 
+  * Implemented reels view for question and answers. 
