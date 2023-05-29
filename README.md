@@ -490,6 +490,9 @@ This Application is based on online learning and interview preparation concepts.
    * Firebase Authentication. 
    * Firebase Crashlytics.
    * Socket.io
+   * Graph-QL.
+   * AWS SDK integration. 
+   * Twillio SDK integration. 
 
 
 
